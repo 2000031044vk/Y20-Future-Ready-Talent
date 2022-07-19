@@ -27,8 +27,9 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 Project Link: https://polite-ground-02281ce10.1.azurestaticapps.net
 
 # Sample images of the project :
-![4](https://user-images.githubusercontent.com/109363416/179674831-1532fa33-2117-4c3e-8a11-d1fb8a0603b7.jpg)
-![3 azure](https://user-images.githubusercontent.com/109363416/179674837-146a86a6-ec27-4421-a9e8-73a8909aeaf7.jpg)
-![2 azure](https://user-images.githubusercontent.com/109363416/179674842-484ca26e-b6b9-4f3c-b81d-ff5779fd8bc6.jpg)
-![1 azure](https://user-images.githubusercontent.com/109363416/179674845-8dd45a8f-bdab-4e0a-b414-04571b3b4430.jpg)
-![5 azure](https://user-images.githubusercontent.com/109363416/179674848-33551ce4-5416-4d0f-a850-0f8a79c6abc4.jpg)
+
+![1 azure](https://user-images.githubusercontent.com/109363416/179675048-eaa6fdfe-793d-4147-b466-f1a97c4ce60d.jpg)
+![2 azure](https://user-images.githubusercontent.com/109363416/179675062-9bc7b3f2-8e66-4dbf-ab80-4e2ce17b27ae.jpg)
+![3 azure](https://user-images.githubusercontent.com/109363416/179675071-a25a5a66-1f7f-43b0-b127-692a79619454.jpg)
+![4](https://user-images.githubusercontent.com/109363416/179675092-b33a3976-3016-4102-b3ce-5b2d2e14007a.jpg)
+![5 azure](https://user-images.githubusercontent.com/109363416/179675123-96d30e2a-6e6a-4a10-8a7b-d5f2613b4b22.jpg)
